@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0fdf4;
-    color: #064420;
+    background-color: #8CA169;
+    color: #0F1813;
 }
 
 header {
     background-color: #064420;
-    color: #ffffff;
+    color: #FFFFFF;
     padding: 1rem;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #a7f3d0;
+    color: #fae0f0;
     text-decoration: none;
 }
 
@@ -37,8 +37,12 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
-    color: #05668d;
+h1 {
+    color: #FFFFFF;
+}
+
+h2 {
+    color: #882255;
 }
 
 footer {
